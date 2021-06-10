@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    h2 {
+        font-size: 50px;
+        color: $primaryFontColor;
+        font-family: $primaryFont;
+    }
+}
+
+.loginHeader {
+    padding-top: 25px;
+}
+
+.logOut {
+    position: absolute;
+    right: 50px;
+    top: 25px;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Special+Elite&display=swap');
+
+@import "./setup";
+@import "./variablesMixins";
+@import "./header";
+@import "./footer";
+
+
+body, #root, .App {
+    min-height: 100vh;
+}
+
